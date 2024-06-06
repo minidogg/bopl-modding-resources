@@ -5,4 +5,4 @@ This is a folder for different code snippets for performing different tasks, lik
 
 | Title    | Directory | Description |
 | -------- | --------- | -------- |
-| GetPlayers | docs/snippets/getPlayers.md | Get the list of all the Players |
+| GetPlayers | docs/snippets/getPlayers.md | Get all players or just one specific player |

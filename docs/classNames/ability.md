@@ -4,7 +4,7 @@ This is a mapping of all the abilities and their related class names. The primar
 | Ability    | Primary Class Name | Related Class Names |
 | -------- | --------- | --------- |
 | Dash | Dash | none |
-| Grenade | Grenade | GrenadeExplode |
+| Grenade | ThrowItem2 | GrenadeExplode, Grenade |
 | Bow | | |
 | Engine | | |
 | Blink Gun | | |
@@ -32,5 +32,7 @@ This is a mapping of all the abilities and their related class names. The primar
 | Beam | | |
 
 ## Dedicated Descriptions
+### Grenade
+Grenade object itself.
 ### GrenadeExplode
-The actual grenade object itself.
+The grenade's explosion.

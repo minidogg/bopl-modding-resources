@@ -1,4 +1,5 @@
 # Ability Class Names
+This is a mapping of all the abilities and their related class names. The primary class name is always the ability itself. The related class names are usually things like what an ability generates.
 
 | Ability    | Primary Class Name | Related Class Names |
 | -------- | --------- | --------- |
@@ -29,3 +30,7 @@
 | Drill | | |
 | Grapple | | |
 | Beam | | |
+
+## Dedicated Descriptions
+### GrenadeExplode
+The actual grenade object itself.

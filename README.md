@@ -1,2 +1,2 @@
-# bopl-modding-resources
-Some "docs" about different things in bopls code
+# Bopl Modding Docs
+Basic documentation for Bopl Battle modding!
